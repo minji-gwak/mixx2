@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **mixx2/mixx2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,9 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img align="right" src="https://user-images.githubusercontent.com/61736137/165254138-70830fcb-b25a-42b0-a8a4-b90678bcb2a2.svg" width="300"/>
-
-<h1> Hi, I'm Dream Coder Ellie <img src="https://user-images.githubusercontent.com/1569988/159394239-e0c43e47-0215-4e4f-983b-559c1994a9f7.png" height="180"></h1>
+<h1> 안녕하세요 🤗 프론트엔드 개발자 MJ입니다 <img src="https://user-images.githubusercontent.com/1569988/159394239-e0c43e47-0215-4e4f-983b-559c1994a9f7.png" height="180"></h1>
 
 <p>
   <em>
