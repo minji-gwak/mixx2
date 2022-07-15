@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 
 
-<h1> 안녕하세요 🤗 프론트엔드 개발자 MJ입니다 <img src="https://user-images.githubusercontent.com/1569988/159394239-e0c43e47-0215-4e4f-983b-559c1994a9f7.png" height="180"></h1>
-
+<h1> 안녕하세요 🤗 프론트엔드 개발자 MJ입니다.</h1>
+<!-- 
 <p>
   <em>
     <h3>
@@ -112,4 +112,4 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/youtube/channel/subscribers/UC_4u-bXaba7yrRz_6x6kb_w?style=social" alt-text="Youtube Channel Subscribers" height="30"/>
   </a>
 </p>
-
+ -->
