@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=민지%20CodeDiary%20📚&fontSize=90&animation=fadeIn&fontAlignY=38&desc=꾸준히%20성장하는%20개발자%20곽민지입니다!&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=민지%20CodeDiary%20📚)
 <img src="https://user-images.githubusercontent.com/83060161/184499878-866001e6-9211-4d33-84e8-8a5760bdcd72.png" width="20%"/>
 
 <p>
