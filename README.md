@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=민지%20CodeDiary%20📚)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=민지%20CodeDiary%20☀️)
 <img src="https://user-images.githubusercontent.com/83060161/184499878-866001e6-9211-4d33-84e8-8a5760bdcd72.png" width="20%"/>
 
 <p>
