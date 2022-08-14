@@ -2,17 +2,13 @@
 <div align=center>
   <img src="https://user-images.githubusercontent.com/83060161/184499878-866001e6-9211-4d33-84e8-8a5760bdcd72.png" width="20%"/>
 
-  <p>
-    <em>
-      <h3>
-        const Minji = {
-          name: '곽민지',
-          blog: 'https://velog.io/@mi__xx2',
-          email: 'mini0006@naver.com',
-        };
-      </h3>
-    </em>
-  </p>
+```js
+  const Minji = {
+    name: '곽민지',
+    blog: 'https://velog.io/@mi__xx2',
+    email: 'mini0006@naver.com',
+  };
+```
 
   <br />
   <h2> My tech stack 📚 </h2>
