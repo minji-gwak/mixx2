@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=민지%20CodeDiary%20☀️)
 <div align=center>
   <img src="https://user-images.githubusercontent.com/83060161/184499878-866001e6-9211-4d33-84e8-8a5760bdcd72.png" width="20%"/>
-
+  
+<div align=left>
 ```js
   const Minji = {
     name: '곽민지',
@@ -9,6 +10,7 @@
     email: 'mini0006@naver.com',
   };
 ```
+</div>
 
   <br />
   <h2> My tech stack 📚 </h2>
