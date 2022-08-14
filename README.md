@@ -1,6 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=민지%20CodeDiary%20☀️)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=ᴄᴏᴅᴇ%20ᴅɪᴀʀʏ%20🧩)
 <div align=center>
-  <img src="https://user-images.githubusercontent.com/83060161/184499878-866001e6-9211-4d33-84e8-8a5760bdcd72.png" width="20%"/>
 </div>
   
 ```js
@@ -13,12 +12,14 @@
 
 <br />
 <div align=center>
-  <h2> My tech stack 📚 </h2>
+  <img src="https://user-images.githubusercontent.com/83060161/184499878-866001e6-9211-4d33-84e8-8a5760bdcd72.png" width="15%"/>
+  <h2>𝙈𝙮 𝙩𝙚𝙘𝙝 𝙨𝙩𝙖𝙘𝙠 📚</h2>
 
   ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
   ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Vue.js](https://img.shields.io/badge/-Vue.js-348C31?style=for-the-badge&logo=vue.js)
   ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
   ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
   <!--
