@@ -5,7 +5,7 @@
 
 <div align=center>
 
-# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;𝙈𝙮 𝙩𝙚𝙘𝙝 𝙨𝙩𝙖𝙘𝙠 📚
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;𝙈𝙮 𝙩𝙚𝙘𝙝 𝙨𝙩𝙖𝙘𝙠 📚
 
 ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-348C31?style=for-the-badge&logo=vue.js)
