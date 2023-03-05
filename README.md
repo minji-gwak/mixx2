@@ -34,6 +34,7 @@ const Minji = {
 <br />
   
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mixx2&show_icons=true&theme=radical&layout=compact)
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mixx2&theme=radical&layout=compact)
 
 <br />
