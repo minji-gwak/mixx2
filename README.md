@@ -19,7 +19,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
   <br />
-<div style="text-align: left; width: 50%;">
+<div align=left style="width: 50%;">
 
 ```js
 const Minji = {
