@@ -32,7 +32,8 @@ const Minji = {
 </div>
 
 <br />
-
+  
+![Github stats](https://github-readme-stats.vercel.app/api?username=mixx2&show_icons=true&theme=radical&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mixx2&theme=radical&layout=compact)
 
 <br />
@@ -51,7 +52,5 @@ const Minji = {
 ![Node](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=ffffff)
 -->
-
-<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=mixx2&show_icons=true&theme=radical&layout=compact) -->
 
  </div>
