@@ -1,7 +1,11 @@
-<div align=center>
-  <img src="https://user-images.githubusercontent.com/83060161/184499878-866001e6-9211-4d33-84e8-8a5760bdcd72.png" width="15%"/>
+<img align="right" src="https://user-images.githubusercontent.com/83060161/184499878-866001e6-9211-4d33-84e8-8a5760bdcd72.png" width="15%"/>
 
-# 𝙈𝙮 𝙩𝙚𝙘𝙝 𝙨𝙩𝙖𝙘𝙠 📚
+<br/>
+<br/>
+
+<div align=center>
+
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;𝙈𝙮 𝙩𝙚𝙘𝙝 𝙨𝙩𝙖𝙘𝙠 📚
 
 ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-348C31?style=for-the-badge&logo=vue.js)
